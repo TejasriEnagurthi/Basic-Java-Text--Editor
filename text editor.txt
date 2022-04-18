@@ -1,0 +1,14 @@
+Abstract:
+
+The Text editor application operates by manipulating plain text files. A plain text file is shown and edited using the basic features of the editor.
+We have developed this text editor using Eclipse IDE. In this application, we edit text files. So, Text editor comprises of Java Swings and AWT. 
+This project has all the frames prepared in swing. Swing offers stronger and manageable GUI components compares to AWT. Modern java GUI is represented by swing.
+Swing was a result of the shortcomings in java’s original GUI sub system: The Abstract Window Toolkit. AWT is a fundamental set of controls, windows, 
+and dialog boxes that add a usable but restricted graphical interface. 
+
+Software Requirements:
+• Eclipse IDE
+• Windows 7 or above
+• JAVA platform SE 8 or above
+
+
